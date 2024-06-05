@@ -1,7 +1,7 @@
 # INTERSPEECH_Media
 
 <p align="justify">
-This repository contains media files that enhance the clarity of our paper titled "Rapport-Driven Virtual Agent: Rapport Building Dialogue Strategy for Improving User Experience at First Meeting" presented at INTERSPEECH 2024. The repository includes example prompts and dialogue samples for both free-form and predefined dialogue strategies.
+This repository contains media files that enhance the clarity of our paper titled "Rapport-Driven Virtual Agent: Rapport Building Dialogue Strategy for Improving User Experience at First Meeting" presented at INTERSPEECH 2024. The repository includes example prompts and dialogue samples for both free-form and predefined dialogue strategies. Notes: If you need the full prompts, please contact me at: 	muhammad_yeza.baihaqi.lx2@naist.ac.jp
 </p>
 
 ## 1. Prompts
