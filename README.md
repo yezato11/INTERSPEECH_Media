@@ -45,7 +45,7 @@ In the comparison of dialogue strategies between the Free Rapport Agent and the 
 ### Predefined Scenario Dialogue Strategy
 
 <p align="justify">
-The Predefined Rapport Agent's reliance on predetermined sequences can hinder the fluidity of conversation. As shown in the illustration below, when a user shows interest in visiting Europa Park, the Predefined Rapport Agent may struggle to smoothly transition into discussing specific park aspects due to its scenario constraints. This limitation may negatively impact naturalness, satisfaction, and usability. Consequently, the Free Rapport Agent is perceived as more relevant and comfortable to interact with.
+The Predefined Rapport Agent's reliance on predetermined sequences can hinder the fluidity of conversation. As shown in the illustration below, when a user shows interest in visiting Europa Park, the Predefined Rapport Agent may struggle to smoothly transition into discussing specific park aspects due to its scenario, such as delivering a question and encouragement. This limitation may negatively impact naturalness, satisfaction, and usability. Consequently, the Free Rapport Agent is perceived as more relevant and comfortable to interact with.
 </p>
 
 - **Excerpt from Small Talk with Predefined Rapport Agent:**
